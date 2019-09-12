@@ -1,0 +1,8 @@
+﻿Pixel Size X micron/pixel
+X*10E-3 mm/1 pixel
+
+1 mm = 0.0393701 inch
+X*0.03937*10E-3 inch /1 pixel
+
+Resolution (pixel/inch; ppi) = 1/(X*3.937*10E-5)
+= 10E5/(X*3.937) 
